@@ -1,4 +1,6 @@
 git hub pull 衝突測試
+Master 測試分支衝突 (pull)
+pull 分支在 github 上改的
 New feature 測試衝突
 789
 南開區柯尼卡
